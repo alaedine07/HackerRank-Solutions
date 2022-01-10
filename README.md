@@ -1,2 +1,1 @@
-# HackerRank-Solutions
-my solutions for some hacker rank exercices
+problem solving solutions from different plateforms
